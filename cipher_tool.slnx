@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="cipher_tool/cipher_tool.vcxproj" Id="f94cbc22-10b6-4fbc-82a5-05a37bf2db5a" />
+</Solution>
