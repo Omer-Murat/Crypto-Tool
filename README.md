@@ -1,16 +1,20 @@
-# 🔐 Murat Crypto Tool v5.0
+# 🔐 Crypto Tool v5.0
 
 > **C++ ile geliştirilmiş, terminal tabanlı, gelişmiş şifreleme ve veri güvenliği aracı.**
 
-![C++](https://img.shields.io/badge/Language-C++-00599C?style=for-the-badge&logo=c%2B%2B)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux-lightgrey?style=for-the-badge)
+![Language](https://img.shields.io/badge/Language-C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![IDE](https://img.shields.io/badge/IDE-Visual%20Studio-purple?style=for-the-badge&logo=visual-studio)
+![Platform](https://img.shields.io/badge/Platform-Windows-lightgrey?style=for-the-badge&logo=windows)
+
+![Anasayfa](anasayfa.png)
 
 ## 📖 Proje Hakkında
 
 **Murat Crypto Tool**, siber güvenlik ve algoritma mantığı üzerine odaklanarak geliştirilmiş bir eğitim projesidir. Kullanıcı dostu arayüzü ve hiyerarşik menü yapısı ile metinleri farklı algoritmalar kullanarak şifreleyebilir ve çözebilir.
 
-Bu proje, **Sivas Cumhuriyet Üniversitesi - Yönetim Bilişim Sistemleri (Applied Sciences)** bünyesindeki çalışmalarım kapsamında, veri yapıları ve güvenliği konularını pekiştirmek amacıyla geliştirilmiştir.
+Bu proje, veri yapıları ve güvenliği konularını pekiştirmek amacıyla geliştirilmiştir.
+
+![Menü](menü.png)
 
 ## 🚀 Özellikler
 
@@ -22,9 +26,9 @@ Bu araç aşağıdaki şifreleme yöntemlerini destekler:
 * 🔑 **Vigenère Şifrelemesi:** Sabit bir sayı yerine "Anahtar Kelime" kullanarak kırılması zor şifreler oluşturur.
 
 ### Diğer Teknik Özellikler
-* 🎨 **Renkli Arayüz:** Kullanıcı deneyimini artırmak için ANSI renk kodları kullanılmıştır.
-* Navigation **Navigasyon Sistemi:** Menüler arası geçiş ve güvenli çıkış seçenekleri.
-* 🧹 **Temiz Kod:** Fonksiyonel programlama prensiplerine uygun modüler yapı.
+*    **Renkli Arayüz:** Kullanıcı deneyimini artırmak için ANSI renk kodları kullanılmıştır.
+*    **Navigasyon Sistemi:** Menüler arası geçiş ve güvenli çıkış seçenekleri.
+*    **Temiz Kod:** Fonksiyonel programlama prensiplerine uygun modüler yapı.
 
 ## 🛠️ Kurulum ve Çalıştırma
 
@@ -45,15 +49,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
     * Windows için: `MuratCrypto.exe`
     * Linux/Mac için: `./MuratCrypto`
 
-## 📷 Ekran Görüntüleri
-
-*(Buraya program çalışırken aldığın ekran görüntülerini daha sonra ekleyebilirsin)*
-
-## 👨‍💻 Geliştirici
-
-**Ömer Murat**
-* 🎓 Sivas Cumhuriyet Üniversitesi - Faculty of Applied Sciences
-* 💻 İlgi Alanları: C++, Veri Güvenliği, Yazılım Geliştirme
+ Geliştirici: Ömer Murat
 
 ---
 *Bu proje açık kaynaklıdır ve eğitim amaçlı geliştirilmiştir.*
