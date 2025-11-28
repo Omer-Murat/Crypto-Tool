@@ -1,20 +1,23 @@
+# --- Derleme Ciktilari ---
 *.exe
 *.out
 *.app
 *.o
 *.obj
 x64/
+Debug/
+Release/
+
+# --- Visual Studio Dosyalari ---
+.vs/
+*.pdb
+*.user
+*.suo
+*.slnx
+
+# --- VS Code ve Sistem ---
 .vscode/
 .DS_Store
 Thumbs.db
 *.log
 *.tmp
-.vs/cipher_tool.slnx
-.vs/
-x64/
-Debug/
-Release/
-*.exe
-*.pdb
-*.user
-*.suo
