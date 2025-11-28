@@ -1,17 +1,11 @@
-# C++ Derleme Çıktıları
 *.exe
 *.out
 *.app
 *.o
 *.obj
-
-# VS Code Klasörleri (Kendi ayarların başkasına gitmesin)
+* x64/Debug
 .vscode/
-
-# İşletim Sistemi Dosyaları
 .DS_Store
 Thumbs.db
-
-# Geçici Dosyalar
 *.log
 *.tmp
