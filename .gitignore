@@ -3,9 +3,10 @@
 *.app
 *.o
 *.obj
-* x64/Debug
+x64/Debug
 .vscode/
 .DS_Store
 Thumbs.db
 *.log
 *.tmp
+.vs/cipher_tool.slnx
