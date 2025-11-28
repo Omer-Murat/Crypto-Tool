@@ -36,7 +36,7 @@ Bu projeyi bilgisayarınızda çalıştırmak için aşağıdaki adımları izle
 
 1.  **Depoyu Klonlayın:**
     ```bash
-    git clone [https://github.com/Omer-Murat/Murat-Crypto-Tool.git](https://github.com/Omer-Murat/Murat-Crypto-Tool.git)
+    git clone https://github.com/Omer-Murat/Murat-Crypto-Tool.git
     cd Murat-Crypto-Tool
     ```
  Geliştirici: Ömer Murat
